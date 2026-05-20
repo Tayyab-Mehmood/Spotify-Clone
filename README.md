@@ -2,6 +2,9 @@
 
 A modern Spotify-inspired music streaming web application built using HTML, CSS, and Tailwind CSS. This project recreates the user interface of Spotify with a clean design, responsive layout, and interactive music sections.
 
+## 🌐 Live Demo
+spotify-tayyab.netlify.app
+
 ## 🚀 Features
 
 * 🎧 Spotify-inspired user interface
@@ -31,6 +34,22 @@ spotify-clone-main/
 │── package-lock.json
 │── README.md
 ```
+
+
+## 📸 Screenshots
+
+
+## 📸 Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8793593e-af96-44d3-9940-83eb77cf865d" width="900"/><br/><br/>
+
+  <img src="https://github.com/user-attachments/assets/c6075d92-4204-40f4-854c-62e2093c539b" width="900"/><br/><br/>
+
+  <img src="https://github.com/user-attachments/assets/8f7adb7f-9d76-4405-903c-305a784ac125" width="900"/>
+</p>
+
+
 
 ## 📸 Preview
 
@@ -90,3 +109,4 @@ This project is created for educational and practice purposes.
 
 ---
 
+### ⭐ If you like this project, give it a star on GitHub!
