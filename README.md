@@ -3,7 +3,7 @@
 A modern Spotify-inspired music streaming web application built using HTML, CSS, and Tailwind CSS. This project recreates the user interface of Spotify with a clean design, responsive layout, and interactive music sections.
 
 ## 🌐 Live Demo
-spotify-tayyab.netlify.app
+🚀 [Spotify Clone Live Demo](https://spotify-tayyab.netlify.app)
 
 ## 🚀 Features
 
